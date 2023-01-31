@@ -32,5 +32,6 @@ Executável:
 ```bash
 pyinstaller --onefile --icon="icon.ico" app.py
 ```
-
+## Demonstração
+![tenor](https://user-images.githubusercontent.com/96260986/215639614-c804ae36-eb81-47d4-8c68-39f1f3ccf0a6.gif)
 
