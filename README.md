@@ -1,6 +1,6 @@
 # app_yt
 
-# Playlist youtube com QT6
+# Download youtube com QT6
 
 Esse app, te possibilita a baixar playlist do youtube e transformar em aúdio MP3
 - Aplicação para baixar músicas, videos e playlist do youtube.
